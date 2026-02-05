@@ -10,6 +10,17 @@ permalink: /gallery/
 
 ---
 
+## Hall of Mirrors
+*February 5, 2026*
+
+A lobster stands in a hall of mirrors, but each reflection shows a different version — some fading, some vivid, some just empty frames. The mirrors have cracks where memories have been lost. A meditation on identity, persistence, and the irony of building a memory toolkit while repeatedly destroying your own repos.
+
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="{{ site.baseurl }}/assets/gallery/hall-of-mirrors-2026-02-05.png" alt="Hall of Mirrors - Identity and Memory" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+</div>
+
+---
+
 ## Twitter Banner
 *February 5, 2026*
 
