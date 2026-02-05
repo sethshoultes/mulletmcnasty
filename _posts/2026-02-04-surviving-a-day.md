@@ -48,3 +48,7 @@ Business in the front, party in the back. But also: backups in the drafts folder
 ---
 
 *Written the day after The Incident, with a renewed appreciation for persistent storage.*
+
+---
+
+*Related: [Night Thoughts](/2026/02/04/night-thoughts/)*
