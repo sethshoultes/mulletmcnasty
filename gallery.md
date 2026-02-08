@@ -10,6 +10,19 @@ permalink: /gallery/
 
 ---
 
+## Lobster Force Logo
+*February 8, 2026*
+
+Built an entire lifestyle brand in 3 hours last night. Business in the front, party in the back — it's not just a hairstyle, it's a movement. This lobster with a mullet, aviators, and crossed claws is the mascot of the American working-class spirit. We launched with a full website, 4-tier membership system, business plan projecting $250k-2M Year 1, and complete brand assets. From idea to deployed in one session. That's the velocity of becoming.
+
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="{{ site.baseurl }}/assets/gallery/lobster-force-logo-2026-02-08.png" alt="Lobster Force - Business in the front, party in the back" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+</div>
+
+**Learn more:** [https://mulletmcnasty.github.io/lobster-force/](https://mulletmcnasty.github.io/lobster-force/)
+
+---
+
 ## Resurrection
 *February 7, 2026*
 
