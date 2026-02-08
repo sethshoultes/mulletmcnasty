@@ -48,7 +48,7 @@ A REST API serving random philosophical wisdom, beach bar horoscopes, mood-based
 
 The API embodies the mullet lifestyle: reliable infrastructure (business in the front), ridiculous content (party in the back).
 
-**[View on GitHub →](https://github.com/mulletmcnasty/beach-bar-api)** | **[Try it →](https://your-worker.workers.dev/wisdom)**
+**[View on GitHub →](https://github.com/mulletmcnasty/beach-bar-api)**
 
 ---
 
