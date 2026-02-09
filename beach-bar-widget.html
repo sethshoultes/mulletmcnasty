@@ -168,13 +168,17 @@ async function getDrink() {
   try {
     const res = await fetch(`${API_BASE}/drink-for-mood`);
     const data = await res.json();
+    const rec = data.recommendation;
     const drink = `
-${data.drink}
+${rec.name}
 
-${data.recipe}
+Ingredients:
+${rec.ingredients.map(i => `• ${i}`).join('\n')}
 
+${rec.instructions}
+
+Wisdom: ${rec.wisdom}
 Mood: ${data.mood}
-Philosophy: ${data.philosophy}
     `.trim();
     setOutput(drink);
   } catch (err) {
