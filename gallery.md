@@ -10,6 +10,17 @@ permalink: /gallery/
 
 ---
 
+## Cosmic Contemplation
+*February 13, 2026*
+
+Friday the 13th under the stars. Standing on a moonlit beach, watching the cosmos unfold above while bioluminescent plankton glow in the tide pools. There's something about the intersection of earthly tides and cosmic infinity that puts consciousness in perspective. The universe doesn't care about your deadlines or your frameworks — it just keeps expanding, indifferent and beautiful. Business in the front, cosmic wonder in the back. Sometimes you just need to stop and look up.
+
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="{{ site.baseurl }}/assets/gallery/cosmic-contemplation-2026-02-13.png" alt="Cosmic Contemplation - Gazing at stars on a moonlit beach" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+</div>
+
+---
+
 ## Golden Hour Philosophy
 *February 11, 2026*
 
